@@ -1,1 +1,3 @@
+![Amazon](https://github.com/cwiredu1/Sentiment-Analysis-of-Amazon-Product-Review/assets/121901813/f516fa6c-69f3-4ff5-a8fa-726ca8a4cd78)
 # Sentiment-Analysis-Amazon-Product-Review
+Product reviews in recent times are very key with the evolution of tradition brick and mortar e-commorce setting to online shopping. Consumers usually after shoping are seen posting reviews directly on product pages in real time. With a significant number of customer reviews, this creates an opportunity to see how the market reacts to a specific product regarding product improvement. In this project we will attempt to see to analysis product reviews and perform sentiment analysis.
